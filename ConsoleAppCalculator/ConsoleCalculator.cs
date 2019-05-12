@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ConsoleAppCalculator
 {
@@ -33,7 +29,7 @@ namespace ConsoleAppCalculator
                     if (NumberBetweenFive(1, 4, amountOfNumberInput))
                     {
                         int result = 5 - amountOfNumberInput;
-                        Console.WriteLine("The number required to get to 5 is " + result); //This is a bit of a hack for using Math.Abs (:, to prompt a positive number to the user.
+                        Console.WriteLine("The number required to get to 5 is " + result); //Let user this the result after they have entered a number less than five.
 
                     }
 

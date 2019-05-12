@@ -3,6 +3,8 @@ using ConsoleAppCalculator.Properties;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using ConsoleAppCalculator;
 
+//These tests are still failing fo now.
+
 namespace ConsoleAppCalculatorTest
 {
     [TestClass]
