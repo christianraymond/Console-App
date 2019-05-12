@@ -1,0 +1,7 @@
+C:\workspace\ConsoleAppCalculator\ConsoleAppCalculator\bin\Debug\ConsoleAppCalculator.exe.config
+C:\workspace\ConsoleAppCalculator\ConsoleAppCalculator\bin\Debug\ConsoleAppCalculator.exe
+C:\workspace\ConsoleAppCalculator\ConsoleAppCalculator\bin\Debug\ConsoleAppCalculator.pdb
+C:\workspace\ConsoleAppCalculator\ConsoleAppCalculator\obj\Debug\ConsoleAppCalculator.csprojAssemblyReference.cache
+C:\workspace\ConsoleAppCalculator\ConsoleAppCalculator\obj\Debug\ConsoleAppCalculator.csproj.CoreCompileInputs.cache
+C:\workspace\ConsoleAppCalculator\ConsoleAppCalculator\obj\Debug\ConsoleAppCalculator.exe
+C:\workspace\ConsoleAppCalculator\ConsoleAppCalculator\obj\Debug\ConsoleAppCalculator.pdb
